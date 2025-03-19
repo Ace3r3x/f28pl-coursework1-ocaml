@@ -1,2 +1,2 @@
-# f28pl-coursework1-ocaml
+# Ocaml Project
 List operations, card games, nonograms (OCaml)
